@@ -1,0 +1,25 @@
+name: Go
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: '1.14.x'
+      - name: Update profile README.md
+        run: go run update.go
+      - name: Commit Update & Push
+        run: |
+          git config user.name 'Joseph García'
+          git config user.email '5715388+joseph-sx@users.noreply.github.com'
+          git commit -am "bot: update README.md"
+          git push
