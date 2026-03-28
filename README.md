@@ -9,10 +9,10 @@ In my free time:
 - 💬 Ask me about tech, security, and data modeling and processing.
 - ⚡ Fun fact: I'd like to write a blog for tech but I'm out of ideas.
 
-⏳ Year progress  [■■■■■■■□□□□□□□□□□□□□□□□□□□□□□□]  23.91 %
+⏳ Year progress  [■■■■■■■□□□□□□□□□□□□□□□□□□□□□□□]  23.94 %
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-sx&layout=compact&langs_count=10&theme=dark&hide=html,css)
+![Top Langs](https://gh-stats-cards.vercel.app/api/top-langs/?username=joseph-sx&layout=donut&langs_count=10&theme=dark&hide=html,css,scss)
 
 
 
-Last updated: 2026-03-28 12:23:32 pm
+Last updated: 2026-03-28 3:7:45 pm
