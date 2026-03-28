@@ -50,7 +50,7 @@ func main() {
 	"- ⚡ Fun fact: I'd like to write a blog for tech but I'm out of ideas.\n\n"+
 	"⏳ Year progress  [" + passedProgressBar + leftProgressBar + "]  " + strconv.FormatFloat(progressOfThisYear*100, 'f', 2, 64) + " %\n\n"+
 
-	"![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-sx&layout=compact&langs_count=10&theme=dark&hide=html,css)\n\n"+
+	"![Top Langs](https://gh-stats-cards.vercel.app/api/top-langs/?username=joseph-sx&layout=donut&langs_count=10&theme=dark&hide=html,css,scss)\n\n"+
 
 	"\n\nLast updated: "+ currentDate
 
