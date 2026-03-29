@@ -68,7 +68,8 @@ func main() {
 		"---\n\n" +
 		"> \"Build for scale, automate for peace of mind.\"\n\n" +
 		"⏳ **Year Progress " + strconv.Itoa(thisYear) + "**\n" +
-		"[" + passedProgressBar + leftProgressBar + "]  " + strconv.FormatFloat(progressOfThisYear*100, 'f', 2, 64) + " %\n" +
+		"[" + passedProgressBar + leftProgressBar + "]  " + strconv.FormatFloat(progressOfThisYear*100, 'f', 2, 64) + " %\n\n" +
+		"![](https://komarev.com/ghpvc/?username=joseph-sx&label=PROFILE+VIEWS)\n\n" +
 		"*Last updated: " + currentDate + "*"
 
 	_, err = file.WriteString(README)
