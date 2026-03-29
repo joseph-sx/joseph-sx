@@ -38,5 +38,8 @@ Mantengo mi propio ecosistema de **Self-hosting** bajo la filosofía de soberan�
 > "Build for scale, automate for peace of mind."
 
 ⏳ **Year Progress 2026**
-[■■■■■■■□□□□□□□□□□□□□□□□□□□□□□□]  23.86 %
+[■■■■■■■□□□□□□□□□□□□□□□□□□□□□□□]  23.98 %
+
+![](https://komarev.com/ghpvc/?username=joseph-sx&label=PROFILE+VIEWS)
+
 *Last updated: 2026-03-29*
